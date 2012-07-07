@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@{
+    Layout = "";        
+}
+ 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ext.NET Razor Example</title>
+</head>
+<body>    
+    @Html.X().ResourceManager()
+ 
+    @(Html.X().Button()
+        .Text("I am the Buttom with Click DirectEvent")
+             
+        .DirectEvents(directEvents => {
+            directEvents.Click.Url = "/Examples/HelloWorld";
+        })
+    )
+</body>
+</html>
+
+@{
+    Layout = "";        
+}
+ 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ext.NET Razor Example</title>
+</head>
+<body>    
+    @Html.X().ResourceManager()
+ 
+    @(Html.X().Button()
+        .Text("I am the Buttom with Click DirectEvent")
+             
+        .DirectEvents(directEvents => {
+            directEvents.Click.Url = "/Examples/HelloWorld";
+        })
+    )
+</body>
+</html>

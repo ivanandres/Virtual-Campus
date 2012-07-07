@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head @ViewBag.HeaderProperties >
+    <title>@ViewBag.Title</title>
+
+    <link href="@Url.Content("~/resources/desktop.css")" rel="stylesheet" type="text/css" />
+    @RenderSection("AdditionalCss", required: false)
+    @RenderSection("AdditionalJs", required: false)
+</head>
+<body>
+    <div id="main">
+        @RenderBody()
+    </div>
+</body>
+</html>

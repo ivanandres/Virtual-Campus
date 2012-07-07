@@ -1,0 +1,49 @@
+﻿ .x-default-shortcut {
+    background-image : url(window48x48.png);
+} 
+
+.x-grid-shortcut {
+    background-image : url(grid48x48.png);
+} 
+
+.x-im-shortcut {
+    background-image : url(im48x48.gif);
+}
+
+.x-notepad-shortcut {
+    background-image : url(notepadLarge.png);
+}
+
+.x-status-shortcut {
+    background-image : url(statusLarge.png);
+}
+
+.FolderDefaultIcon{
+    background-image: url(Folders/DefaultFolder.png)
+}
+.FolderSharedIcon{
+    background-image: url(Folders/SharedFolder.png)
+}
+.FolderCourseIcon{
+    background-image: url(Folders/CourseFolder.png)
+}
+.FolderFavouriteIcon{
+    background-image: url(Folders/FavouriteFolder.png)
+}
+.FolderImagesIcon{
+    background-image: url(Folders/ImagesFolder.png)
+}
+.FolderVideosIcon{
+    background-image: url(Folders/VideosFolder.png)
+}
+.FolderVirtualUserHDDIcon{
+    background-image: url(Folders/VirtualUserHDD.png)
+}
+
+.x-bold-text .x-btn-inner{
+    font-weight: bold !important;
+}
+
+.x-long-label{
+    height:auto !important;
+}

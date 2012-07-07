@@ -1,0 +1,90 @@
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Gruyas.dll
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Gruyas.pdb
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\EntityFramework.dll
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Ext.Net.dll
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Ext.Net.Utilities.dll
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Newtonsoft.Json.dll
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Transformer.NET.dll
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\EntityFramework.xml
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Ext.Net.xml
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Ext.Net.Utilities.xml
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Newtonsoft.Json.xml
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\bin\Transformer.NET.xml
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\obj\Debug\Gruyas.dll
+C:\Users\Nahuel\Desktop\vc2\Gruyas\Gruyas\obj\Debug\Gruyas.pdb
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Gruyas.dll
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Gruyas.pdb
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\EntityFramework.dll
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Ext.Net.dll
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Ext.Net.Utilities.dll
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Newtonsoft.Json.dll
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Transformer.NET.dll
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\EntityFramework.xml
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Ext.Net.xml
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Ext.Net.Utilities.xml
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Newtonsoft.Json.xml
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\bin\Transformer.NET.xml
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\obj\Debug\Gruyas.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\obj\Debug\Gruyas.dll
+C:\Users\Nahuel\Desktop\Proyectos\GruyasMVC\Gruyas - copia\Gruyas\obj\Debug\Gruyas.pdb
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Gruyas.dll
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Gruyas.pdb
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\EntityFramework.dll
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Ext.Net.dll
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Ext.Net.Utilities.dll
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Newtonsoft.Json.dll
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Transformer.NET.dll
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\EntityFramework.xml
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Ext.Net.xml
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Ext.Net.Utilities.xml
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Newtonsoft.Json.xml
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\bin\Transformer.NET.xml
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\obj\Debug\Gruyas.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\obj\Debug\Gruyas.dll
+C:\Users\Nahuel\Desktop\Gruyas\Gruyas\obj\Debug\Gruyas.pdb
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Gruyas.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Gruyas.pdb
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\EntityFramework.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Ext.Net.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Ext.Net.Utilities.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Newtonsoft.Json.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Transformer.NET.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\EntityFramework.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Ext.Net.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Ext.Net.Utilities.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Newtonsoft.Json.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\bin\Transformer.NET.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\obj\Debug\Gruyas.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\obj\Debug\Gruyas.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3\Gruyas\obj\Debug\Gruyas.pdb
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Gruyas.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Gruyas.pdb
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\EntityFramework.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Ext.Net.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Ext.Net.Utilities.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Newtonsoft.Json.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Transformer.NET.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\EntityFramework.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Ext.Net.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Ext.Net.Utilities.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Newtonsoft.Json.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\bin\Transformer.NET.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\obj\Debug\Gruyas.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\obj\Debug\Gruyas.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia\Gruyas\obj\Debug\Gruyas.pdb
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Gruyas.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Gruyas.pdb
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\EntityFramework.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Ext.Net.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Ext.Net.Utilities.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Newtonsoft.Json.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Transformer.NET.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\EntityFramework.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Ext.Net.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Ext.Net.Utilities.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Newtonsoft.Json.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\bin\Transformer.NET.xml
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\obj\Debug\Gruyas.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\obj\Debug\Gruyas.dll
+C:\Users\Nahuel\Desktop\GruyasMVC3 - copia anti-armandos - copia\Gruyas\obj\Debug\Gruyas.pdb

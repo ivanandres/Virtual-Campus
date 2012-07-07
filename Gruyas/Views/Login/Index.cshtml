@@ -1,0 +1,57 @@
+﻿@{
+    
+    ViewBag.HeaderProperties = "id='Head1' runat='server'";
+    ViewBag.Title = "Gruyas.com | Iniciar Sesión";  
+ } 
+   
+ @Html.X().ResourceManager()
+ 
+ @(Html.X().Window()
+    .ID("")
+    .Closable(false)
+    .Resizable(false)
+    .Height(150)
+    .Icon(Icon.Lock)
+    .Title("Iniciar Sesión")
+    .Draggable(false)
+    .Width(350)
+    .Modal(true)
+    .BodyPadding(5)
+    .Layout("Form")
+    .Items(items => items
+        .Add(Html.X().TextField()
+            .ID("txtUsername")
+            .ReadOnly(false)
+            .FieldLabel("Usuario")
+            .AllowBlank(false)
+            .BlankText("Tu nombre de usuario es requerido.")
+        )
+        .Add(Html.X().TextField()
+            .ID("txtPassword")
+            .ReadOnly(false)
+            .InputType(Ext.Net.InputType.Password)
+            .FieldLabel("Contraseña")
+            .AllowBlank(false)
+            .BlankText("Tu contraseña es requerida.")
+        )
+        .Add(Html.X().Checkbox()
+            .AnchorHorizontal("67%")
+            .BoxLabel("Remember Me")
+            .Checked(true)
+            .Name("RememberMe")
+        )
+        .Add(Html.X().Button()
+            .ID("Login_Btn_Click")
+            .Text("Ingresar")
+            .Icon(Icon.Accept)
+            .MaxWidth(80)
+            .MarginSpec("30 0 0 245")
+            .Type(ButtonType.Submit)
+            .DirectEvents(directEvents => {
+                directEvents.Click.ExtraParams.Add(new Parameter("Username", "sad", ParameterMode.Value));
+                directEvents.Click.ExtraParams.Add(new Parameter("Password", "Shared", ParameterMode.Value));
+                directEvents.Click.Url = "/Login/LogOn";
+            })
+        )
+    )
+)
